@@ -61,8 +61,7 @@
 ### 📫 Get In Touch
 | Platform | Link |
 |----------|------|
-| **Email** | [YOUR.EMAIL@example.com](mailto:rajbirsingh1429@gmail.com) |
-| **Discord** | YOUR_DISCORD_TAG |
+| **Email** | [rajbirsingh1429@gmail.com](mailto:YOUR.rajbirsingh1429@gmail.com) |
 
 ---
 
