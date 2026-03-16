@@ -61,7 +61,7 @@
 ### 📫 Get In Touch
 | Platform | Link |
 |----------|------|
-| **Email** | [rajbirsingh1429@gmail.com](mailto:YOUR.rajbirsingh1429@gmail.com) |
+| **Email** | [rajbirsingh1429@gmail.com](mailto:rajbirsingh1429@gmail.com) |
 
 ---
 
